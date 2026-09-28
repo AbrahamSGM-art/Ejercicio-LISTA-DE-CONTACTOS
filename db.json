@@ -1,0 +1,10 @@
+{
+  "contacts": [
+    {
+      "name": "Gabriel Perez",
+      "phone": "04245675656",
+      "id": "FJKpUClJieo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
